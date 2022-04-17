@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamerboy28
+- 👋 Hi, I’m Irfan Hussain
 - 👀 I’m interested in TECH
 - 🌱 I’m currently learning BE Software engineering
 - 💞️ I’m looking to collaborate on ...
